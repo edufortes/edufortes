@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/edufortes" target="blank"><img src="https://img.shields.io/twitter/follow/edufortes?logo=twitter&style=for-the-badge" alt="edufortes" /></a> </p>
 
-- 🔭 I’m currently working on [Jampp](https://jampp.com/)
+- 🔭 I’m currently working at [Jampp](https://jampp.com/)
 
 - 🌱 I’m currently learning **AWS Certified Solutions Architect Associate**
 
