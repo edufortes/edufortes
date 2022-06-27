@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eduardo N. Fortes</h1>
-<h3 align="center">DevOps Engineer in Argentina</h3>
+<h3 align="center">DevOps Engineer in Berlin, Germany</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edufortes" alt="edufortes" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/edufortes" target="blank"><img src="https://img.shields.io/twitter/follow/edufortes?logo=twitter&style=for-the-badge" alt="edufortes" /></a> </p>
 
-- 🔭 I’m currently working at [Jampp](https://jampp.com/)
+- 🔭 I’m currently working at [TTMzero]([https://jampp.com/](https://ttmzero.com/))
 
 - 🌱 I’m currently learning **AWS Certified Solutions Architect Associate**
 
