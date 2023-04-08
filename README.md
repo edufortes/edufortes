@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/eduardonfortes/](https://www.linkedin.com/in/eduardonfortes/)
 
-- ⚡ Fun fact **I'm a Licensed HAM Radio Operator in Argentina -> Callsign LU5VQV**
+- ⚡ Fun fact **I'm a Licensed Amateur Radio Operator in Argentina & Germany -> Callsign LU5VQV - DL7EDU**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
