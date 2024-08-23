@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/edufortes" target="blank"><img src="https://img.shields.io/twitter/follow/edufortes?logo=twitter&style=for-the-badge" alt="edufortes" /></a> </p>
 
-- 🔭 I’m currently working at [TTMzero]([https://jampp.com/](https://ttmzero.com/))
+- 🔭 I’m currently working at [Beyonnex.io](https://beyonnex.io/en)
 
 - 🌱 I’m currently learning **AWS Certified Solutions Architect Associate**
 
